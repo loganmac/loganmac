@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Logan Mac</h1>
-<h3 align="center">I'm a contract software developer and entrepreneur.</h3>
+<h3 align="center">I'm a contract software developer and entrepreneur</h3>
 
-- 🎯 I'm working on building a rust/swift ios app.
+- 🎯 I'm working on building a Rust/Swift iOS app
 
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on open source Rust / Swift projects
 
-- 💬 Ask me about **Rust, Swift/SwiftUI, React/Typescript, Game Dev, Music.**
+- 💬 Ask me about **Rust, Swift/SwiftUI, React/Typescript, Game Dev, Music**
 
-- 📫 How to reach me **loganthemac@gmail.com**
+- 📫 You can reach me at **loganthemac@gmail.com**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
