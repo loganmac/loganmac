@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📝 I regulary write articles on [https://medium.com/@loganmac](https://medium.com/@loganmac) 
 
 -->
-<h1 align="center">Hi 👋, I'm Logan Mac</h1>
+<h1 align="center">Hi 👋, I'm Logan</h1>
 <h3 align="center">I'm a contract software developer and entrepreneur</h3>
 
 - 🎯 I'm working on building a Django-based insurance projection app
