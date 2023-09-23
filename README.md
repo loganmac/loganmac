@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">👋 Hi, I'm Logan</h1>
-<h3 align="center">I'm a contract software developer and entrepreneur</h3>
+<h3 align="center">I'm a for-contract software developer and entrepreneur</h3>
 
 - 🎯 I'm working on building a Django-based insurance projection app
 
-- 🌱 I’m currently learning **Django**
+- 👯 I’m looking to collaborate on open-source Elixir / Phoenix projects
 
-- 👯 I’m looking to collaborate on open source Django / Python projects
-
-- 💬 Ask me about **Python, Rust, Functional Programming, Swift/SwiftUI, React/Typescript, Game Dev, Music**
+- 💬 Ask me about **Elixir, Django, Rust, Functional Programming, Swift/SwiftUI, React/Typescript, Game Dev, Music**
 
 - 📫 You can reach me at **loganthemac@gmail.com**
 
