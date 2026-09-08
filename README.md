@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 🎯 I'm working on building an insurance projection web app
 
-- 👯 I’m looking to collaborate on open-source Elixir / Phoenix projects
+- 👯 I’m looking to collaborate on open-source Python, Rust, and Go projects
 
-- 💬 Ask me about **Elixir, Django, Rust, Functional Programming, Swift/SwiftUI, React/Typescript, Game Dev, Music**
+- 💬 Ask me about **Python, Elixir, Django, Rust, Go, Functional Programming, Swift/SwiftUI, React/Typescript, Game Dev, Music**
 
 - 📫 You can reach me at **loganthemac@gmail.com**
 
